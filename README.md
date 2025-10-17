@@ -9,5 +9,8 @@ October 2025 - May 2027
 - Exploring DH project possibilities in classical studies
 
 ## Week 1 (Oct 18-24, 2025)
-Day 1 in progress...
-```
+### Day 1 ✅
+- Python for Everybody Weeks 1-2
+- Built 5 programs (calculator, temp converter, etc.)
+- Set up all documentation systems
+- Over 3 hours Python learning with some technical issues along the way
