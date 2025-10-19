@@ -8,7 +8,7 @@ October 2025 - May 2027
 - Text processing for Latin/Greek texts
 - Exploring DH project possibilities in classical studies
 
-## Week 1 (Oct 18-24, 2025)
+## Week 1 (Oct 17-23, 2025)
 ### Day 1 ✅
 - Python for Everybody Weeks 1-2
 - Built 5 programs (calculator, temp converter, etc.)
@@ -24,8 +24,17 @@ October 2025 - May 2027
   - Interactive phrase analysis
 - **Hours:** 5
 
-### Day 3 (Oct 20)
-*In progress...*
+### Day 3 ✅ (Oct 19)
+- Loops (for, while) and iteration patterns
+- Advanced string manipulation (slicing, methods)
+- Built 7 programs exploring loops and strings
+- Built Latin text frequency analyzer
+  - Processes actual Latin passages
+  - Counts word frequency
+  - Identifies most common words
+  - First tool working with corpus text
+- **Hours:** 6
+- Note: Shorter day due to some personal stuff. Excited for tomorrow because lesson 7 promises to bring everything together so far!
 
 ## Projects
 
@@ -54,4 +63,4 @@ Learning in public - follow the journey on Bluesky
 
 ---
 
-*Last updated: October 18, 2025*
+*Last updated: October 19, 2025*
