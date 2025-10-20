@@ -36,6 +36,17 @@ October 2025 - May 2027
 - **Hours:** 6
 - Note: Shorter day due to some personal stuff. Excited for tomorrow because lesson 7 promises to bring everything together so far!
 
+### Day 4 ✅ (Oct 20)
+
+-Chapter 7: Files - Complete (reading/writing, file paths, exception handling)
+-Chapter 8: Lists - Complete (methods, slicing, processing sequences)
+-Built Latin Vocab Manager with file persistence
+  -Stores vocabulary in text file
+  -Add/view/search functionality
+  -First tool with permanent data storage
+-Some exercises felt challenging but felt great when solved!
+
+
 ## Projects
 
 ### Latin Declension Analyzer (Day 2)
@@ -63,4 +74,4 @@ Learning in public - follow the journey on Bluesky
 
 ---
 
-*Last updated: October 19, 2025*
+*Last updated: October 20, 2025*
